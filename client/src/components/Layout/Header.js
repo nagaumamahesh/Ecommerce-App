@@ -62,7 +62,7 @@ const Header = () => {
                                     <li className="nav-item dropdown">
                                         <NavLink
                                             className="nav-link dropdown-toggle"
-                                            to="/"
+                                            to="#"
                                             role="button"
                                             data-toggle="dropdown"
                                             aria-expanded="false"
